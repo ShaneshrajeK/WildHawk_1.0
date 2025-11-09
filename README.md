@@ -145,8 +145,6 @@ WildHawk_1.0/
 │  ├─ images/
 │  ├─ videos/
 │  └─ posters/
-├─ models/
-│  └─ mobilenet_animals.tflite   # Custom trained model
 ├─ launch/
 │  └─ detection_and_nav.launch.py
 ├─ requirements.txt
