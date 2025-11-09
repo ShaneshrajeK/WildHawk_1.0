@@ -37,9 +37,9 @@ Developed between **October 2024 – December 2024**, this system combines **edg
 
 ## 🖼️ Project Media
 
-|               Drone Prototype              |             Vision Detection (Demo)            |                InterIIT Poster               |
+|               Drone Prototype              |             System Architecture            |                InterIIT Expo               |
 | :----------------------------------------: | :--------------------------------------------: | :------------------------------------------: |
-| ![Prototype](media/images/drone_proto.jpg) | ![Detection](media/images/detection_frame.jpg) | ![Poster](media/posters/wildhawk_poster.jpg) |
+| ![Prototype](media/images/image_4.jpg) | ![Detection](media/images/diagram_1.png) | ![Poster](media/images/photo_1.jpg) |
 
 Additional visual assets are included in the `media/` folder:
 
@@ -163,20 +163,10 @@ WildHawk_1.0/
 
 ---
 
-## 🧩 3D & Visual Assets
-
-The drone frame and camera mounts were custom-designed in Fusion 360 and 3D-printed using PLA+.
-
-|                    Banner                    |               Animation Snapshot              |
-| :------------------------------------------: | :-------------------------------------------: |
-| ![Banner](media/posters/wildhawk_banner.jpg) | ![Animation](media/videos/dart_animation.jpg) |
-
----
-
 ## 👩‍💻 Developers
 
-**Project Lead:** Shaneshraje Kadu
-**Institute:** IIT (BHU), Varanasi
+**Project Lead:** Shaneshraje Kadu\
+**Institute:** IIT (BHU), Varanasi\
 **Club:** Aero-Modelling Club, IIT (BHU)
 
 ---
