@@ -39,7 +39,7 @@ Parameters (with defaults):
 - publish_rate: 5.0   # Hz to publish tracks
 - draw_image: True    # whether to subscribe to detection_image and publish annotated image
 
-Author: ChatGPT (for WildHawk 1.0)
+Author: Shaneshraje Kadu (for WildHawk 1.0)
 """
 
 import rclpy
