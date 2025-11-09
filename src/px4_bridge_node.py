@@ -34,7 +34,7 @@ Usage:
 Or run directly:
     python3 px4_bridge_node.py --connection_url udp:127.0.0.1:14540
 
-Author: ChatGPT (WildHawk 1.0)
+Author: Shaneshraje Kadu (WildHawk 1.0)
 """
 
 import argparse
