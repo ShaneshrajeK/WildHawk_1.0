@@ -63,7 +63,7 @@ media/
 ### 🧩 Hardware Components
 
 * **Pixhawk Cube Orange+** — running **PX4 Autopilot**
-* **Raspberry Pi 4 B (4 GB)** — companion computer for onboard AI
+* **Raspberry Pi 4 B (8 GB)** — companion computer for onboard AI
 * **Camera Module** — CSI/USB camera for real-time video
 * **Telemetry** — Wi-Fi or 915 MHz radio link to Ground Station
 * **Battery** — 4S Li-Po (5200 mAh) with 20–25 min endurance
@@ -147,7 +147,6 @@ WildHawk_1.0/
 │  └─ posters/
 ├─ launch/
 │  └─ detection_and_nav.launch.py
-├─ requirements.txt
 └─ README.md
 ```
 
